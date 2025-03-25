@@ -81,5 +81,5 @@ npx serve ./dist
 For further troubleshooting, refer to the [Expo documentation](https://docs.expo.dev/).
 
 ---
-This guide ensures a smooth setup and execution process. Let me know if you need modifications! 🚀
+This guide ensures a smooth setup and execution process. Let me know if you need modifications! 
 
